@@ -1,3 +1,7 @@
+# Ignore large datasets
+*.ldata.*
+*.ldata*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
